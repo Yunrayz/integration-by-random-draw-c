@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1527502382 source:c:\users\clément rousseau\desktop\nf04\intégration par tirage aléatoire\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
